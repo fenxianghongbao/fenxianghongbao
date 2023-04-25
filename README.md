@@ -1,4 +1,5 @@
 ### Hi there 这是一个微信端的营销引流软件，完全开源免费，用户转发企业设置的营销链接，可以获得微信零钱，要想实现此功能，微信支付需要开通商家转账到零钱的功能，下载后可查看申请教程👋
+![分享页](https://user-images.githubusercontent.com/131809615/234373135-39be667e-198e-43c5-91b6-bebefe6ae717.png)
 
 <!--
 **fenxianghongbao/fenxianghongbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
